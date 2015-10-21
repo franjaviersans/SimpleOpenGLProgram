@@ -2,7 +2,7 @@
 
 in vec3 vFinalColor;
 
-layout(location = 0) out vec4 vFragColor;
+out vec4 vFragColor;
 
 void main(void)
 {

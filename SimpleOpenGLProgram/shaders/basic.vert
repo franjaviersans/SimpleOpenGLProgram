@@ -2,8 +2,8 @@
 
 uniform mat4 mProjection, mModelView;
 
-layout(location = 0) in vec3 vVertex;
-layout(location = 1) in vec3 vColor;
+in vec3 vVertex;
+in vec3 vColor;
 
 out vec3 vFinalColor;
 

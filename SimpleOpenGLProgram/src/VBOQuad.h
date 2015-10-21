@@ -4,7 +4,7 @@
 #include "Definitions.h"
 
 /**
-* Class FBOQuad.
+* Class VBOQuad.
 * Creates a Quad using FBO with the corresponding texture coordinates
 *
 *           (-0.5,0.5)*------*(0.5,0.5)
